@@ -1,0 +1,15 @@
+[project]
+name = "sales-brochure-generator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiohttp>=3.13.2",
+    "bs4>=0.0.2",
+    "loguru>=0.7.3",
+    "markdown-pdf>=1.10",
+    "openai>=2.9.0",
+    "pydantic-settings>=2.12.0",
+    "reflex>=0.8.21",
+]
