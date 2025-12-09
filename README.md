@@ -1,7 +1,7 @@
 # Sales Brochure Generator
 
-A web application for generating sales brochures using AI.
 
+A web application that uses AI to automatically generate structured, visually consistent sales brochures from minimal input, producing ready-to-use marketing PDFs or documents with persuasive copy and layout.
 ## Quick Install
 
 ```bash
